@@ -4,8 +4,7 @@
 - 👯 I’m looking to collaborate on any ai agent start up companys!
 - 🤔 I’m looking for help with becoming an ai agent builder in general.
 - 💬 Ask me about my biggest motivation in joining the ai sector.
-- 📫 How to reach me: via email @ramaharesnal@gmail.com
-- 😄 Pronouns: HE/HIM/HIS
+
 <!--
 **ramxino29/ramxino29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
